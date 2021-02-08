@@ -1,0 +1,29 @@
+_repo: The-Strange-Friend-of-Tito-Gil_64456
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - De Alarcón, Pedro Antonio
+    - Alarcon, Pedro Antonio de
+    - Ariza, Pedro Antonio de Alarcón y
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+description: ''
+gutenberg_issued: '2021-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Strange Friend of Tito Gil
+url: http://www.gutenberg.org/ebooks/64456
